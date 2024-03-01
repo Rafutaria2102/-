@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>自我介紹</title>
+</head>
+<body>
+    <h1>自我介紹</h1>
+    <p>大家好，我是[你的名字]。</p>
+    <p>我是一名[你的身份/职业]，对[你的兴趣爱好/专长]充满热情。</p>
+    <p>我喜欢[列举你的爱好/兴趣]，并且热衷于[你所从事的工作/学习]。</p>
+    <p>我希望通过这个网站与大家分享我的经验和知识，并且学习来自其他人的见解。</p>
+    <p>如果你有任何问题或想要交流，欢迎随时联系我。</p>
+    <p>谢谢！</p>
+</body>
+</html>
